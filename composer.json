@@ -1,5 +1,5 @@
 {
-    "name": "morrislaptop/laravel-five-package-bridges",
+    "name": "otc/laravel-five-package-bridges",
     "description": "Use your Laravel 4 packages in Laravel 5",
     "license": "MIT",
     "authors": [
